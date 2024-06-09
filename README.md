@@ -64,7 +64,7 @@ The HR dashboard project has achieved its goal of automating the analysis and re
 
 ## Documentation and Journal Publication
 This project has been documented thoroughly to aid future developers and researchers. The detailed project report has been published in the International Journal of Novel Research and Development (IJNRD), under the title "Dashboard to Automate HR Reporting". The publication outlines the project's objectives, methodologies, results, and potential for future work.
-[Download the PDF here](/images/dashborad%20to%20automate%20hr%20reporting.pdf)
+[Download the PDF here](/images/dashborad.pdf)
 
 ### Reference
 - **IJNRD Journal Publication**: Harini K N, Harini S, Janani T, "Dashboard to Automate HR Reporting", IJNRD, May 2023. [Link to the publication]
