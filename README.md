@@ -68,8 +68,8 @@ This project has been documented thoroughly to aid future developers and researc
 
 
 ### Reference
-- **IJNRD Journal Publication**: Harini K N "Dashboard to Automate HR Reporting", IJNRD, May 2023. [Published Journal Paper](images/IJNRD.pdf) [Certificate](images/certificate.jpeg)
-- 
+- **IJNRD Journal Publication**: Harini K N "Dashboard to Automate HR Reporting", IJNRD, May 2023. [Published Journal Paper](images/IJNRD.pdf)
+- [Certificate](images/certificate.jpeg)
 
 ---
 
