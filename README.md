@@ -71,4 +71,8 @@ This project has been documented thoroughly to aid future developers and researc
 
 ---
 
+**Note:** This project was created as a demonstration and may have limitations due to trial periods of software tools used.
+
+---
+
 This README file provides an overview of the project and guides users and developers through the system requirements, design, implementation, and results. For more detailed information, please refer to the full project documentation and the IJNRD journal publication.
