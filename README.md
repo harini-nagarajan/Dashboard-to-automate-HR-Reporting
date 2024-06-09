@@ -60,8 +60,6 @@ The HR dashboard project has achieved its goal of automating the analysis and re
 - **User Customization**: Allowing end-users to customize the dashboard according to their specific needs.
 - **Mobile Access**: Developing a mobile-friendly version of the dashboard for on-the-go access.
 
-## Appendix
-
 ## Documentation and Journal Publication
 This project has been documented thoroughly to aid future developers and researchers. The detailed project report has been published in the International Journal of Novel Research and Development (IJNRD), under the title "Dashboard to Automate HR Reporting". The publication outlines the project's objectives, methodologies, results, and potential for future work.
 [Download the PDF here](images/dashboard.pdf)
